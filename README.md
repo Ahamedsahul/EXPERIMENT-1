@@ -49,6 +49,7 @@ a.   KVL:
 
 
 b.  KCL:
+
 ![WhatsApp Image 2025-09-22 at 10 44 08_1d4ec18f](https://github.com/user-attachments/assets/8262d60d-83d3-4b81-9608-3d3291cb2de2)
  
 
@@ -68,6 +69,7 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+
  ![WhatsApp Image 2025-09-22 at 10 44 08_0c2d7356](https://github.com/user-attachments/assets/fcc097dd-9dcd-46e5-a251-5022fdda2b0b)
 
 
