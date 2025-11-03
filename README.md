@@ -46,10 +46,10 @@ CIRCUIT DIAGRAM:
 
 ![WhatsApp Image 2025-09-22 at 10 44 07_c5ae97b6](https://github.com/user-attachments/assets/63462f02-b277-4cef-ba31-29cd9150bedf)
  
-![WhatsApp Image 2025-09-22 at 10 44 08_2c32e9d4](https://github.com/user-attachments/assets/8b06df7b-ac42-4a31-b013-7c2451a3d1e7)
+![WhatsApp Image 2025-11-03 at 14 08 34_449506a4](https://github.com/user-attachments/assets/a214b6eb-b300-4a60-a375-b5c333de4611)
 
-![WhatsApp Image 2025-09-22 at 10 44 08_1d4ec18f](https://github.com/user-attachments/assets/8262d60d-83d3-4b81-9608-3d3291cb2de2)
- 
+![WhatsApp Image 2025-11-03 at 14 08 34_5400cc27](https://github.com/user-attachments/assets/619ae98e-56b1-44e3-a1d2-9e935ac183c0)
+
 ![WhatsApp Image 2025-09-22 at 10 44 08_727d751d](https://github.com/user-attachments/assets/6d535740-87e8-44c2-839e-2f17c2dda5a4)
 
 ![WhatsApp Image 2025-09-22 at 10 44 08_0c2d7356](https://github.com/user-attachments/assets/fcc097dd-9dcd-46e5-a251-5022fdda2b0b)
