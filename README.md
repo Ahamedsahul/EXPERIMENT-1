@@ -59,8 +59,6 @@ CIRCUIT DIAGRAM:
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/10b7acec-d7ca-429c-8fbb-c5f7c068fbf9" />
 
 
-![WhatsApp Image 2025-09-22 at 10 44 08_30b18882](https://github.com/user-attachments/assets/2f0e1a2e-41b8-42b3-9548-34fe52169897)
-
 
 RESULT:
 
