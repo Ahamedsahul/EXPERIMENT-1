@@ -52,7 +52,6 @@ CIRCUIT DIAGRAM:
 
 ![WhatsApp Image 2025-09-22 at 10 44 08_727d751d](https://github.com/user-attachments/assets/6d535740-87e8-44c2-839e-2f17c2dda5a4)
 
-![WhatsApp Image 2025-09-22 at 10 44 08_0c2d7356](https://github.com/user-attachments/assets/fcc097dd-9dcd-46e5-a251-5022fdda2b0b)
 
 <img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/a93f10a6-2fad-4cf3-a3e8-4b5e53928d91" />
 
